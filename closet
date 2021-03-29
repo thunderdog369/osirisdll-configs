@@ -1,0 +1,900 @@
+{
+  "Aimbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Aimbot Key": "MOUSE1",
+  "Aimbot Key mode": 0,
+  "Aimbot On key": false,
+  "Backtrack": {
+    "Enabled": true,
+    "Ignore smoke": true,
+    "Time limit": 80
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {
+          "Alpha": 0.0,
+          "Blinking": true,
+          "Color": "#00f2ff",
+          "Cover": true,
+          "Material": 10
+        },
+        {
+          "Alpha": 0.0,
+          "Blinking": true,
+          "Color": "#e200ff",
+          "Ignore-Z": true,
+          "Material": 10
+        },
+        {
+          "Alpha": 1.0,
+          "Color": "#a100ff",
+          "Material": 4
+        },
+        {
+          "Alpha": 0.55026454,
+          "Blinking": true,
+          "Color": "#ea00ff",
+          "Material": 10,
+          "Rainbow Speed": 5.0
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Color": "#e6f02d",
+          "Material": 9
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Color": "#1ab9db",
+          "Enabled": true,
+          "Health based": true,
+          "Material": 1,
+          "Wireframe": true
+        },
+        {
+          "Alpha": 0.76719576,
+          "Color": "#0b33a8",
+          "Ignore-Z": true,
+          "Material": 10
+        },
+        {
+          "Alpha": 1.0,
+          "Color": "#ee7927",
+          "Ignore-Z": true
+        },
+        {
+          "Alpha": 0.23809522,
+          "Color": "#23aee1",
+          "Material": 10
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Color": "#da00ff",
+          "Rainbow Speed": 10.0
+        },
+        {
+          "Alpha": 0.03174603,
+          "Color": "#d200ff",
+          "Material": 4
+        },
+        {
+          "Blinking": true
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {
+          "Alpha": 0.41798943,
+          "Blinking": true,
+          "Color": "#a100ff",
+          "Cover": true,
+          "Material": 10,
+          "Rainbow Speed": 0.3
+        },
+        {
+          "Alpha": 1.0,
+          "Blinking": true,
+          "Color": "#0d020e",
+          "Material": 4
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Color": "#25afff",
+          "Material": 6,
+          "Rainbow Speed": 8.0
+        },
+        {
+          "Alpha": 1.0,
+          "Blinking": true,
+          "Color": "#0048ff",
+          "Material": 12,
+          "Wireframe": true
+        },
+        {
+          "Alpha": 0.0,
+          "Blinking": true,
+          "Color": "#ff0000",
+          "Cover": true,
+          "Material": 1,
+          "Rainbow Speed": 10.0,
+          "Wireframe": true
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Font": {
+          "Name": "Bahnschrift Condensed"
+        },
+        "Health Bar": true,
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#f9f9f9"
+        },
+        "Text Cull Distance": 10.0
+      },
+      "Occluded": {
+        "Font": {
+          "Name": "Arial"
+        },
+        "Health Bar": true,
+        "Name": {
+          "Enabled": true
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      },
+      "Visible": {
+        "Font": {
+          "Name": "Arial"
+        },
+        "Health Bar": true,
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#f8f8f8",
+          "Enabled": true
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      }
+    },
+    "Other Entities": {
+      "All": {
+        "Name": {
+          "Enabled": true
+        }
+      }
+    },
+    "Projectiles": {
+      "Flashbang": {
+        "Name": {
+          "Enabled": true
+        }
+      },
+      "HE Grenade": {
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Enabled": true
+        }
+      },
+      "Molotov": {
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#ffc200",
+          "Enabled": true
+        }
+      }
+    },
+    "Weapons": {
+      "All": {
+        "Box": {
+          "Scale": [
+            0.07,
+            0.1,
+            0.15
+          ]
+        },
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#000000",
+          "Enabled": true,
+          "Rainbow": true
+        }
+      },
+      "HE Grenade": {
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#ff0000"
+        }
+      },
+      "Molotov": {
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#ffb100"
+        }
+      },
+      "Smoke Grenade": {
+        "Name": {
+          "Alpha": 0.26455027,
+          "Color": "#252d3b"
+        }
+      }
+    }
+  },
+  "Glow": {
+    "Items": {
+      "C4": {
+        "Alpha": 1.0,
+        "Color": "#f5e900",
+        "Enabled": true
+      },
+      "Weapons": {
+        "Enabled": true
+      }
+    },
+    "Players": {
+      "Defusing": {
+        "All": {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Enabled": true
+        }
+      },
+      "Enemies": {
+        "All": {
+          "Alpha": 1.0,
+          "Color": "#faff00"
+        },
+        "Visible": {
+          "Alpha": 0.6296296,
+          "Color": "#ffffff",
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Misc": {
+    "Anti AFK kick": true,
+    "Auto pistol": true,
+    "Ban color": 5,
+    "Bomb timer": {
+      "Enabled": true
+    },
+    "Bunny hop": true,
+    "Choked packets": 1,
+    "Edge Jump": true,
+    "Edge Jump Key": "MOUSE4",
+    "Grenade predict": true,
+    "Hit sound": 4,
+    "Noscope crosshair": {
+      "Alpha": 1.0,
+      "Color": "#2206e9",
+      "Enabled": true
+    },
+    "Quick healthshot key": 88,
+    "Radar hack": true,
+    "Reveal ranks": true,
+    "Watermark": {
+      "Enabled": true
+    }
+  },
+  "Skin changer": [
+    {
+      "Definition index": 42,
+      "Definition override": 507,
+      "Enabled": true
+    },
+    {
+      "Definition index": 5028,
+      "Definition override": 5032,
+      "Enabled": true,
+      "Paint Kit": 10021,
+      "Quality": 7
+    },
+    {
+      "Definition index": 7,
+      "Enabled": true,
+      "Paint Kit": 707,
+      "Stickers": [
+        {},
+        {
+          "Kit": 4352
+        },
+        {
+          "Kit": 3470
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "Definition index": 8
+    },
+    {
+      "Definition index": 9,
+      "Enabled": true,
+      "Paint Kit": 446
+    },
+    {},
+    {
+      "Definition index": 1,
+      "Enabled": true,
+      "Paint Kit": 711
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 4,
+      "Enabled": true,
+      "Paint Kit": 353
+    },
+    {},
+    {},
+    {
+      "Definition index": 16,
+      "Enabled": true,
+      "Paint Kit": 400
+    },
+    {
+      "Definition index": 17,
+      "Enabled": true,
+      "Paint Kit": 947
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 40,
+      "Enabled": true,
+      "Paint Kit": 624
+    },
+    {},
+    {},
+    {},
+    {
+      "Definition index": 61,
+      "Enabled": true,
+      "Paint Kit": 653
+    },
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {
+        "Footstep volume": 98
+      },
+      {},
+      {
+        "Footstep volume": 200,
+        "Headshot volume": 101,
+        "Weapon volume": 150
+      }
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "ButtonActive": [
+        0.06,
+        0.53,
+        0.98,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "CheckMark": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.16,
+        0.29,
+        0.48,
+        0.54
+      ],
+      "FrameBgActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "FrameBgHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "Header": [
+        0.26,
+        0.59,
+        0.98,
+        0.31
+      ],
+      "HeaderActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "HeaderHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.14,
+        0.14,
+        0.14,
+        1.0
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.43,
+        0.35,
+        1.0
+      ],
+      "PopupBg": [
+        0.08,
+        0.08,
+        0.08,
+        0.94
+      ],
+      "ResizeGrip": [
+        0.26,
+        0.59,
+        0.98,
+        0.25
+      ],
+      "ResizeGripActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.95
+      ],
+      "ResizeGripHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "ScrollbarBg": [
+        0.02,
+        0.02,
+        0.02,
+        0.53
+      ],
+      "ScrollbarGrab": [
+        0.31,
+        0.31,
+        0.31,
+        1.0
+      ],
+      "ScrollbarGrabActive": [
+        0.51,
+        0.51,
+        0.51,
+        1.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.41,
+        0.41,
+        0.41,
+        1.0
+      ],
+      "Separator": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "SeparatorActive": [
+        0.1,
+        0.4,
+        0.75,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.1,
+        0.4,
+        0.75,
+        0.78
+      ],
+      "SliderGrab": [
+        0.24,
+        0.52,
+        0.88,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "Tab": [
+        0.17999999,
+        0.34999996,
+        0.58000004,
+        0.862
+      ],
+      "TabActive": [
+        0.19999999,
+        0.40999997,
+        0.68,
+        1.0
+      ],
+      "TabHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.068,
+        0.10199998,
+        0.14800003,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.13599998,
+        0.26199996,
+        0.424,
+        1.0
+      ],
+      "TableBorderLight": [
+        0.23,
+        0.23,
+        0.25,
+        1.0
+      ],
+      "TableBorderStrong": [
+        0.31,
+        0.31,
+        0.35,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.19,
+        0.19,
+        0.2,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.06
+      ],
+      "Text": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "TextDisabled": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.26,
+        0.59,
+        0.98,
+        0.35
+      ],
+      "TitleBg": [
+        0.04,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "TitleBgActive": [
+        0.16,
+        0.29,
+        0.48,
+        1.0
+      ],
+      "TitleBgCollapsed": [
+        0.0,
+        0.0,
+        0.0,
+        0.51
+      ],
+      "WindowBg": [
+        0.06,
+        0.06,
+        0.06,
+        0.94
+      ]
+    }
+  },
+  "Triggerbot": [
+    {
+      "Burst Time": 0.044,
+      "Enabled": true,
+      "Min damage": 33,
+      "Scoped only": false,
+      "Shot delay": 10
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Min damage": 101,
+      "Shot delay": 2
+    }
+  ],
+  "Triggerbot Key": "LALT",
+  "Visuals": {
+    "Brightness": 0.65,
+    "Bullet Tracers": {
+      "Color": {
+        "Alpha": 1.0,
+        "Color": "#0d80ee"
+      },
+      "Enabled": true
+    },
+    "FOV": 1,
+    "Flash reduction": 50,
+    "Hit effect time": 0.35,
+    "Hit marker time": 0.45,
+    "No blur": true,
+    "Playermodel CT": 1,
+    "Playermodel T": 54,
+    "Skybox": 24
+  }
+}
